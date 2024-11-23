@@ -1,1 +1,2 @@
-# emergencyos_addon
+# BetterEmergencyOS
+Fixes some stylings and adds templates.
