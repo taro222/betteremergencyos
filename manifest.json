@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "BetterEmergencyOS",
+  "description": "Makes your life easier using EmergencyOS.",
+  "author": "Just2Ez",
+  "version": "1.0",
+  "host_permissions": [
+    "*://*.emergencyos.de/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.emergencyos.de/*"],
+      "js": ["content.js"],
+      "all_frames": true
+    }
+  ]
+}
