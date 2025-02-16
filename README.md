@@ -73,4 +73,5 @@ const Parameter = {
 
 ## Contact
 
+Fehler entdeckt? Fehlende Features? Fragen?
 <ins>Discord</ins>: **`_just2ez`**
