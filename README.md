@@ -52,6 +52,7 @@ const Parameter = {
 ```
 
 ### <ins>Akten</ins>
+Aktenvorlagen können erstellt und anschließend als Vorlage abgespeichert werden.
 
 **`buttonName`**: Der Name des Buttons. (Beispiel: *"FIB Kollektivakte"*)
 
@@ -65,6 +66,7 @@ const Parameter = {
 > Weitere Aktenvorlagen können nach belieben erstellt werden und können sämtliche Parameter enthalten.
 
 ### <ins>Parameter</ins>
+Parameter sind innerhalb der Aktenvorlagen (mehrfach) verwendbar und werden mit dem hinterlegten Wert ersetzt.
 
 **`{dienstnummer}`**: Der Platzhalter für den Parameter. (Beispiel: *"Meine Dienstnummer ist {dienstnummer}."* -> *"Meine Dienstnummer ist FIB-XX."*)
 
