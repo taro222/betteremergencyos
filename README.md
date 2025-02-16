@@ -66,10 +66,10 @@ const Parameter = {
 
 ### <ins>Parameter</ins>
 
-**`{dienstnummer}`**: Der Platzhalter für den Parameter. (Beispiel: *"Meine Dienstnummer ist {dienstnummer}."* - *"Meine Dienstnummer ist FIB-XX."*)
+**`{dienstnummer}`**: Der Platzhalter für den Parameter. (Beispiel: *"Meine Dienstnummer ist {dienstnummer}."* -> *"Meine Dienstnummer ist FIB-XX."*)
 
 > [!NOTE]
-> Weitere Parameter können nach belieben erstellt werden und anschließend in den Aktenvorlagen verwendet werden.
+> Weitere Parameter können nach belieben erstellt werden und sind anschließend in den Aktenvorlagen verwendbar.
 
 ## Contact
 
