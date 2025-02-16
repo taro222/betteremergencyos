@@ -1,3 +1,7 @@
+/////////////////////////////////////////////////////
+//////////////////// KONFIGURATION //////////////////
+/////////////////////////////////////////////////////
+
 const Akten = {
   fib_schnellakte: {
     buttonName: "FIB Schnellakte",
@@ -19,9 +23,9 @@ const Parameter = {
   "{datum}": undefined
 }
 
-// !!!!!!!!!!!!!! AB HIER NICHTS ÄNDERN !!!!!!!!!!!!!!
-// !!!!!!!!!!!!!! AB HIER NICHTS ÄNDERN !!!!!!!!!!!!!!
-// !!!!!!!!!!!!!! AB HIER NICHTS ÄNDERN !!!!!!!!!!!!!!
+/////////////////////////////////////////////////////
+//////////////// AB HIER NICHTS ÄNDERN //////////////
+/////////////////////////////////////////////////////
 
 const Config = {
   selectorAkteDropdown: "body > form > div > div.app-inner-body > div > div:nth-child(2) > div:nth-child(2) > div > div > div.selectize-input.items.required.not-full.has-options",
@@ -59,10 +63,6 @@ async function getUniqueInformation() {
   Parameter["{datum}"] = date.toLocaleDateString('en-GB', {
     day: 'numeric', month: 'numeric', year: 'numeric'
   }).replaceAll('/', '.');
-
-  // Dienstnummer
-  //const element = document.querySelector(Config.selectorDienstnummer)
-  //Parameter["{dienstnummer}"] = element.value
 }
 
 function insertAkte(templateAkte) {
