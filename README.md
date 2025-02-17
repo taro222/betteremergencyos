@@ -1,6 +1,8 @@
 # BetterEmergencyOS
 
-Quality of Life Updates für EmergencyOS. Behebt diverse Stylefehler und fügt Aktenvorlagen hinzu.
+Quality of Life Updates für [**EmergencyOS**](https://emergencyos.de). Behebt diverse Stylefehler und fügt Aktenvorlagen hinzu.
+
+Ursprünglich erstellt für [**NarcoCity**](https://discord.gg/narcocity), jedoch verwendbar auf alle Server, welche EmergencyOS verwenden. 
 
 ## Installation
 
