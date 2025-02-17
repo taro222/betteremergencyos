@@ -1,6 +1,6 @@
 # BetterEmergencyOS
 
-Behebt diverse Styling-Fehler in BetterEmergencyOS.
+Quality of Life Updates für EmergencyOS. Behebt diverse Stylefehler und fügt Aktenvorlagen hinzu.
 
 ## Installation
 
