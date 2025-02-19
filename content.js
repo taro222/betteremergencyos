@@ -18,9 +18,9 @@ const Akten = {
 }
 
 const Parameter = {
-  "{dienstnummer}": "FIB-98", // automatically updates in getUniqueInformation()
-  "{rang}": "Special Agent",
-  "{datum}": undefined
+  "{dienstnummer}": "FIB-XX",
+  "{rang}": "Junior Agent",
+  "{datum}": undefined // Wird automatisch in getUniqueInformation() aktualisiert.
 }
 
 /////////////////////////////////////////////////////
