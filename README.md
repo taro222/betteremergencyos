@@ -31,6 +31,8 @@ Ursprünglich erstellt für [**NarcoCity**](https://discord.gg/narcocity), jedoc
 ## Konfiguration
 
 ```js
+// Dateiname: content.js
+
 const Akten = {
   fib_schnellakte: {
     buttonName: "FIB Schnellakte",
