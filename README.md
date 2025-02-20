@@ -38,6 +38,8 @@ Die Konfiguration findet über das integrierte PopUp statt.
 
 ***TIPP:*** *Das anpinnen der Erweiterung vereinfacht die Benutzung.*
 
+<img src="https://i.imgur.com/aXKFtYy.png" width="20%">
+
 **2. Das Menü ermöglicht diverse Anpassungen.**
 
 <img src="https://i.imgur.com/mIJZFU9.png" width="50%">
@@ -45,7 +47,7 @@ Die Konfiguration findet über das integrierte PopUp statt.
 ### <ins>Akten</ins>
 Aktenvorlagen können erstellt und anschließend als Vorlage abgespeichert werden.
 
-**`buttonName`**: Der Name des Buttons. (Beispiel: *"FIB Kollektivakte"*)
+**`buttonName`**: Der Name des Buttons. (Beispiel: *"FIB Schnellakte"*)
 
 <img src="https://i.imgur.com/JIOaeMv.png" width="15%">
 
