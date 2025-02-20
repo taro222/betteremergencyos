@@ -6,9 +6,9 @@ Ursprünglich erstellt für [**NarcoCity**](https://discord.gg/narcocity), jedoc
 
 ## Installation
 
-1. [Download](https://github.com/Just2Ez/emergencyos_addon/archive/refs/heads/main.zip) dieses Repository als ZIP-Datei.
+1. **[Download](https://github.com/Just2Ez/emergencyos_addon/archive/refs/heads/main.zip)** dieses Repository als ZIP-Datei.
 2. Entpacke die ZIP-Datei.
-3. Installiere die Extension in deinem Browser. [chrome](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl=de#load-unpacked) [opera](https://help.opera.com/en/extensions/testing/)
+3. Installiere die Extension in deinem Browser. **[chrome](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl=de#load-unpacked)** **[opera](https://help.opera.com/en/extensions/testing/)**
 
 ## Features
 
