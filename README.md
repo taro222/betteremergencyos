@@ -66,7 +66,7 @@ Parameter sind innerhalb der Aktenvorlagen (mehrfach) verwendbar und werden mit 
 
 ### <ins>Einstellungen</ins>
 
-- **`Parameter aktiviert`**: Falls aktiviert, werden die Parameter in einer Aktenvorlage mit den oben hinterlegten Werten ersetzt. Hilfreich fürs Erstellen von eigenen Aktenvorlagen.
+- **`Parameter aktiviert`**: Falls aktiviert, werden die Parameter in einer Aktenvorlage mit den oben hinterlegten Werten ersetzt. Hilfreich für das Erstellen von eigenen Aktenvorlagen.
 
 ## Contact
 
