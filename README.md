@@ -36,6 +36,8 @@ Die Konfiguration findet über das integrierte PopUp statt.
 
 <img src="https://i.imgur.com/t1LcaaV.png" width="20%">
 
+***TIPP:*** *Das anpinnen der Erweiterung vereinfacht die Benutzung.*
+
 **2. Das Menü ermöglicht diverse Anpassungen.**
 
 <img src="https://i.imgur.com/mIJZFU9.png" width="50%">
