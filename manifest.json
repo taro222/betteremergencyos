@@ -1,16 +1,21 @@
 {
   "manifest_version": 3,
   "name": "BetterEmergencyOS",
-  "description": "EmergencyOS, but actually usable. - discord: _just2ez",
+  "description": "Quality of Life changes for EmergencyOS. - discord: _just2ez",
   "author": "Just2Ez",
   "version": "1.4",
+  "permissions": ["storage"],
+  "action": {
+    "default_title": "BetterEmergencyOS",
+    "default_popup": "popup.html"
+  },
   "host_permissions": [
     "*://*.emergencyos.de/*"
   ],
   "content_scripts": [
     {
       "matches": ["*://*.emergencyos.de/*"],
-      "js": ["content.js"],
+      "js": ["util.js","content.js"],
       "all_frames": true
     }
   ]

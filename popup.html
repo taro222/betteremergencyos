@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+  <head>
+    <title>BetterEmergencyOS</title>
+    <meta charset="UTF-8">
+    <style>
+      html {
+          width: 600px;  /* max: 800px */
+          height: 400px; /* max: 600px */
+          text-align: center;
+      }
+
+      button {
+        margin: 5px;
+        outline: none;
+      }
+
+      #buttonsDiv {
+        padding-top: 10vh;
+        padding-bottom: 5vh;
+      }
+
+      #settingsDiv {
+        display: flex;
+        justify-content: center;
+      }
+
+      #parameter {
+        display: flex;
+        justify-content: center;
+      }
+
+      #parameter_placeholder {
+        width: 25%;
+        margin: 5px;
+      }
+
+      #parameter_value {
+        width: 25%;
+        margin: 5px;
+      }
+
+      #akte {
+        display: flex;
+        justify-content: center;
+      }
+
+      #akte_buttonName {
+        width: 25%;
+        margin: 5px;
+      }
+
+      #akte_template {
+        width: 60%;
+        margin: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1><u>Parameter</u></h1>
+    <div id="allParameter">
+    </div>
+    <button id="addParameter">+</button>
+    
+    <h1><u>Aktenvorlagen</u></h1>
+    <div id="allAkten">
+    </div>
+    <button id="addAkte">+</button>
+
+    <h1><u>Einstellungen</u></h1>
+    <div id="settingsDiv">
+      <p>Parameter aktiviert:</p>
+      <input type="checkbox" id="replaceParameter">
+    </div>
+
+    <div id="buttonsDiv">
+      <button id="save">SAVE</button>
+      <button id="resetdefault">RESET TO DEFAULT</button>
+    </div>
+    
+    <script src="util.js"></script>
+    <script src="popup.js"></script>
+  </body>
+</html>
